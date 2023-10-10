@@ -1,0 +1,14 @@
+{
+  "port": "8000",
+  "mongodb": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "hbl",
+    "username": "",
+    "password": ""
+  },
+  "settings": {
+    "apiUrl": "localhost:8000",
+    "siteTitle": "hbl"
+  }
+}
